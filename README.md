@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm an AI Engineer from Egypt 🇪🇬, passionate about building <br>intelligent systems that solve real-world problems.<br><br>- 🔭 I'm working as an AI Engineer focused on developing <br>  AI-powered Chatbots & Virtual Assistants that transform <br>  how businesses interact with customers & employees<br><br>- 🌱 I'm currently mastering LLMs, LangChain, <br>  Prompt Engineering, RAG Systems & MLOps<br><br>- ⚡ In my free time I research cutting-edge AI trends, <br>  build side projects & contribute to the AI community</p>
+<h5 align="left">I'm an AI Engineer from Egypt 🇪🇬, passionate about building <br>intelligent systems that solve real-world problems.<br><br>- 🔭 I'm working as an AI Engineer focused on developing <br>  AI-powered Chatbots & Virtual Assistants that transform <br>  how businesses interact with customers & employees<br><br>- 🌱 I'm currently mastering LLMs, LangChain, <br>  Prompt Engineering, RAG Systems & MLOps<br><br>- ⚡ In my free time I research cutting-edge AI trends, <br>  build side projects & contribute to the AI community</h5>
 
 ###
 
