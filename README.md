@@ -4,7 +4,8 @@
 
 ### Hi, I'm Marwan 👋
 
-I'm an AI Solutions Engineer based in Cairo. I build AI agents and ERP systems that run in production:
+I'm an AI Solutions Engineer based in Cairo. I take what business people describe in their own words,
+turn it into a technical spec, and build and implement the solution until it runs in production:
 agents that take orders, answer calls and keep management updated on WhatsApp, and Odoo systems that
 companies run their daily operations on.
 
