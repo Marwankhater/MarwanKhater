@@ -4,8 +4,9 @@
 
 ### Hi, I'm Marwan 👋
 
-I'm an AI Solutions Engineer based in Cairo. Most of my work is building LLM agents that live inside
-ERP systems, mostly Odoo, and getting them into production so teams spend less time on manual work.
+I'm an AI Solutions Engineer based in Cairo. I build AI agents and ERP systems that run in production:
+agents that talk to customers on WhatsApp and phone calls, and Odoo systems that companies run their
+daily operations on.
 
 Right now I'm a Senior AI Solutions Engineer at AR-Corporates. Before that I was an AI Engineer and
 Odoo Developer at EISAC Automation (a Siemens Authorized Partner), and I spent a little over a year at
@@ -17,7 +18,18 @@ Outlier reviewing and fixing LLM-generated code for model training.
   <a href="https://wa.me/201202853088"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-### Projects
+### Production work
+
+Most of what I build is for clients, so the code stays private. A few examples:
+
+- An AI agent for a restaurant that replies to customers, takes their orders and passes them to the kitchen
+- WhatsApp and voice call agents that handle customer conversations
+- A full Odoo 19 ERP for a supermarket chain: HR, attendance, payroll and sales, with integrations for biometric devices and the POS system
+- An Odoo 19 ERP for a manufacturer and distributor, with payroll, quality control and GPS tracking for vehicles and sales reps
+
+The two ERP systems have 32 custom modules and more than 6,500 automated tests between them.
+
+### Open source
 
 **[OdooBot AI](https://github.com/Marwankhater/AI_bot_for_odoo16)**
 An LLM agent inside Odoo Discuss. You chat with it and it creates quotations, purchase orders and
