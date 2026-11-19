@@ -13,7 +13,7 @@ Odoo Developer at EISAC Automation (a Siemens Authorized Partner), and I spent a
 Outlier reviewing and fixing LLM-generated code for model training.
 
 <p>
-  <a href="https://www.linkedin.com/in/marwan-ashraf-811660219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/marwan-khater-811660219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:marwanashraf410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://wa.me/201202853088"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
@@ -22,6 +22,7 @@ Outlier reviewing and fixing LLM-generated code for model training.
 
 Most of what I build is for clients, so the code stays private. A few examples:
 
+- A WhatsApp AI agent that connects management to their ERP: they ask about any figure and get a live answer, receive regular updates, and get alerted as soon as something looks off
 - An AI agent for a restaurant that replies to customers, takes their orders and passes them to the kitchen
 - WhatsApp and voice call agents that handle customer conversations
 - A full Odoo 19 ERP for a supermarket chain: HR, attendance, payroll and sales, with integrations for biometric devices and the POS system
