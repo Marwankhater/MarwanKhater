@@ -5,8 +5,8 @@
 ### Hi, I'm Marwan 👋
 
 I'm an AI Solutions Engineer based in Cairo. I build AI agents and ERP systems that run in production:
-agents that talk to customers on WhatsApp and phone calls, and Odoo systems that companies run their
-daily operations on.
+agents that take orders, answer calls and keep management updated on WhatsApp, and Odoo systems that
+companies run their daily operations on.
 
 Right now I'm a Senior AI Solutions Engineer at AR-Corporates. Before that I was an AI Engineer and
 Odoo Developer at EISAC Automation (a Siemens Authorized Partner), and I spent a little over a year at
@@ -24,7 +24,7 @@ Most of what I build is for clients, so the code stays private. A few examples:
 
 - A WhatsApp AI agent that connects management to their ERP: they ask about any figure and get a live answer, receive regular updates, and get alerted as soon as something looks off
 - An AI agent for a restaurant that replies to customers, takes their orders and passes them to the kitchen
-- WhatsApp and voice call agents that handle customer conversations
+- Voice call agents that handle customer calls
 - A full Odoo 19 ERP for a supermarket chain: HR, attendance, payroll and sales, with integrations for biometric devices and the POS system
 - An Odoo 19 ERP for a manufacturer and distributor, with payroll, quality control and GPS tracking for vehicles and sales reps
 
